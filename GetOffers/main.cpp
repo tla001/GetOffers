@@ -7,13 +7,21 @@
 
 //#include "GetOfferQ1.h"
 //#include "GetOfferQ2.h"
-#include "GetOfferQ3.h"
+//#include "GetOfferQ3.h"
+//#include "GetOfferQ4.h"
+//#include "GetOfferQ5.h"
+//#include "GetOfferQ6.h"
+#include "GetOfferQ7.h"
 
 int main() {
 
 	//GetOfferQ1::test();
 	//GetOfferQ2::test();
-	GetOfferQ3::test();
+	//GetOfferQ3::test();
+	//GetOfferQ4::test();
+	//GetOfferQ5Test();
+	//GetOfferQ6::test();
+	GetOfferQ7::test();
 
 	return 0;
 }
