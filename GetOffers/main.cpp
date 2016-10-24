@@ -14,7 +14,12 @@
 //#include "GetOfferQ7.h"
 //#include "GetOfferQ8.h"
 //#include "GetOfferQ9.h"
-#include "GetOfferQ10.h"
+//#include "GetOfferQ10.h"
+//#include "GetOfferQ11.h"
+//#include "GetOfferQ12.h"
+//#include "GetOfferQ13.h"
+//#include "GetOfferQ14.h"
+#include "GetOfferQ15.h"
 
 int main() {
 
@@ -27,7 +32,12 @@ int main() {
 	//GetOfferQ7::test();
 	//GetOfferQ8::test();
 	//GetOfferQ9::test();
-	GetOfferQ10::test();
+	//GetOfferQ10::test();
+	//GetOfferQ11::test();
+	//GetOfferQ12::test();
+	//GetOfferQ13::test();
+	//GetOfferQ14::test();
+	GetOfferQ15::test();
 
 	return 0;
 }
