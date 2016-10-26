@@ -12,6 +12,7 @@ extern "C" {
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
+#include <string.h>
 }
 
 #include <iostream>
@@ -19,6 +20,7 @@ extern "C" {
 #include <string>
 #include <algorithm>
 #include <stack>
+#include <queue>
 
 using namespace std;
 
