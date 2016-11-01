@@ -21,7 +21,12 @@ extern "C" {
 #include <algorithm>
 #include <stack>
 #include <queue>
+#include <set>
+#include <map>
+#include <hash_map>
+#include <unordered_set>
 
 using namespace std;
+using namespace __gnu_cxx;
 
 #endif /* INC_INCLUDE_H_ */
