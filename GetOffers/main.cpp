@@ -35,7 +35,13 @@
 //#include "GetOfferQ28.h"
 //#include "GetOfferQ29.h"
 //#include "GetOfferQ30.h"
-#include "GetOfferQ31.h"
+//#include "GetOfferQ31.h"
+//#include "GetOfferQ32.h"
+//#include "GetOfferQ33.h"
+//#include "GetOfferQ34.h"
+//#include "GetOfferQ35.h"
+//#include "GetOfferQ37.h"
+#include "GetOfferQ40.h"
 int main() {
 
 	/*//GetOfferQ1::test();
@@ -68,7 +74,13 @@ int main() {
 	//GetOfferQ28::test();
 	//GetOfferQ29::test();
 	//GetOfferQ30::test();
-	GetOfferQ31::test();
+	//GetOfferQ31::test();
+	//GetOfferQ32::test();
+	//GetOfferQ33::test();
+	//GetOfferQ34::test();
+	//GetOfferQ35::test();
+	///GetOfferQ37::test();
+	GetOfferQ40::test();
 	return 0;
 }
 
