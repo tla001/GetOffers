@@ -24,27 +24,32 @@
  //#include "GetOfferQ17.h"
  //#include "GetOfferQ18.h"
  //#include "GetOfferQ19.h"
- //#include "GetOfferQ20.h"*/
+ //#include "GetOfferQ20.h"
 
-//#include "GetOfferQ21.h"
-//#include "GetOfferQ22.h"
-//#include "GetOfferQ23.h"
-//#include "GetOfferQ24.h"
-//#include "GetOfferQ26.h"
-//#include "GetOfferQ27.h"
-//#include "GetOfferQ28.h"
-//#include "GetOfferQ29.h"
-//#include "GetOfferQ30.h"
-//#include "GetOfferQ31.h"
-//#include "GetOfferQ32.h"
-//#include "GetOfferQ33.h"
-//#include "GetOfferQ34.h"
-//#include "GetOfferQ35.h"
-//#include "GetOfferQ37.h"
-//#include "GetOfferQ40.h"
+ //#include "GetOfferQ21.h"
+ //#include "GetOfferQ22.h"
+ //#include "GetOfferQ23.h"
+ //#include "GetOfferQ24.h"
+ //#include "GetOfferQ26.h"
+ //#include "GetOfferQ27.h"
+ //#include "GetOfferQ28.h"
+ //#include "GetOfferQ29.h"
+ //#include "GetOfferQ30.h"
+ //#include "GetOfferQ31.h"
+ //#include "GetOfferQ32.h"
+ //#include "GetOfferQ33.h"
+ //#include "GetOfferQ34.h"
+ //#include "GetOfferQ35.h"
+ //#include "GetOfferQ37.h"
+ //#include "GetOfferQ40.h"*/
+
 //#include "GetOfferQ42.h"
 //#include "GetOfferQ43.h"
-#include "GetOfferQ44.h"
+//#include "GetOfferQ44.h"
+//#include "GetOfferQ45.h"
+//#include "GetOfferQ47.h"
+//#include "GetOfferQ49.h"
+#include "GetOfferQ50.h"
 
 int main() {
 
@@ -67,27 +72,32 @@ int main() {
 	 //GetOfferQ17::test();
 	 //GetOfferQ18::test();
 	 //GetOfferQ19::test();
-	 //GetOfferQ20Test();*/
+	 //GetOfferQ20Test();
 
-	//GetOfferQ21::test();
-	//GetOfferQ22::test();
-	//GetOfferQ23::test();
-	//GetOfferQ24::test();
-	//GetOfferQ26::test();
-	//GetOfferQ27::test();
-	//GetOfferQ28::test();
-	//GetOfferQ29::test();
-	//GetOfferQ30::test();
-	//GetOfferQ31::test();
-	//GetOfferQ32::test();
-	//GetOfferQ33::test();
-	//GetOfferQ34::test();
-	//GetOfferQ35::test();
-	///GetOfferQ37::test();
-	//GetOfferQ40::test();
+	 //GetOfferQ21::test();
+	 //GetOfferQ22::test();
+	 //GetOfferQ23::test();
+	 //GetOfferQ24::test();
+	 //GetOfferQ26::test();
+	 //GetOfferQ27::test();
+	 //GetOfferQ28::test();
+	 //GetOfferQ29::test();
+	 //GetOfferQ30::test();
+	 //GetOfferQ31::test();
+	 //GetOfferQ32::test();
+	 //GetOfferQ33::test();
+	 //GetOfferQ34::test();
+	 //GetOfferQ35::test();
+	 ///GetOfferQ37::test();
+	 //GetOfferQ40::test();*/
+
 	//GetOfferQ42::test();
 	//GetOfferQ43::test();
-	GetOfferQ44::test();
+	//GetOfferQ44::test();
+	//GetOfferQ45::test();
+	//GetOfferQ47::test();
+	//GetOfferQ49::test();
+	GetOfferQ50::test();
 	return 0;
 }
 
