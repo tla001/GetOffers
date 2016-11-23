@@ -19,6 +19,8 @@ extern "C" {
 #include <sstream>
 #include <vector>
 #include <string>
+#include <cstring>
+#include <cwchar>
 #include <algorithm>
 #include <stack>
 #include <queue>
